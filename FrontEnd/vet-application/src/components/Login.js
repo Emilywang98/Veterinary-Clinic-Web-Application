@@ -7,7 +7,7 @@ const Login = () => {
 
     let navigate = useNavigate();
     function handleClick() {
-        navigate('/search');
+        navigate('/home');
     };
 
     return (
