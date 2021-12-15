@@ -1,7 +1,7 @@
 # Final-Project
 607 final project
 
-Video link: 
+Video link: https://www.youtube.com/watch?v=nVOuzsAkPug&t=1s&ab_channel=EmilyBunnii
 
 ## Contributions:
 - Manage Animal: Brandon Quan
