@@ -8,3 +8,6 @@ Video demonstration: https://www.youtube.com/watch?v=nVOuzsAkPug&t=1s&ab_channel
 - Back End: Spring Boot with JPA repository
 - DataBase: MySQL
 - Authentication: Auth0 and JSON Web Tokens (JWT)
+
+
+![image](https://user-images.githubusercontent.com/68518246/147005189-6833a352-0306-48df-8010-17d2ab43ba19.png)
