@@ -1,39 +1,10 @@
 # Final-Project
-607 final project
+Full stack web application for the Universtiy of Calgary veterinary clinic.
 
-Video link: https://www.youtube.com/watch?v=nVOuzsAkPug&t=1s&ab_channel=EmilyBunnii
-
-## Contributions:
-- Manage Animal: Brandon Quan
-- Manage Users: Emily Wang
-- Search Patient: Rohinesh Ram
-- Peer programming for everything else
+Video demonstration: https://www.youtube.com/watch?v=nVOuzsAkPug&t=1s&ab_channel=EmilyBunnii
 
 ## Design Overview: Tools Used
-- Front End: React with Bulma CSS framework
+- Front End: React with Bulma CSS framework, Axios for HTTP requests
 - Back End: Spring Boot with JPA repository
-- DataBase: SQL
+- DataBase: MySQL
 - Authentication: Auth0 and JSON Web Tokens (JWT)
-
-We used Axios to create http requests from the front end.
-
-## How to Run
-- navigate to ```final-project-uofeng607-057-1\src\main\resources\application.properties```
-- Add your credentials:
-  ```
-  spring.datasource.url=jdbc:mysql://localhost:3306/VETDATA
-  spring.datasource.username="YOUR USERNAME HERE"
-  spring.datasource.password="YOUR PASSWORD HERE"
-  ```
-- navigate to ```\final-project-uofeng607-057-1\FrontEnd\vet-application```
-- ```npm install``` to download all required libraries for the Front End on your IDE of choice
-- navigate to ```\final-project-uofeng607-057-1\src\main\resources```
-- run the ```VetDatabase.sql``` script in MySQL Workbench
-- navigate to ```\final-project-uofeng607-057-1\src\main\java\com\vetapp\application```
-- run the Spring application: ```Application.java``` file
-- on ```\final-project-uofeng607-057-1\FrontEnd\vet-application``` enter ```npm start``` to start the react application 
-
-## Questions?
-Please contact Brandon Quan, brandon.quan@ucalgary.ca
-
-Thank you so much!
